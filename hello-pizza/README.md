@@ -29,11 +29,6 @@ Together, they form a simple but tasty landing page — just enough to get a fee
 
 ---
 
-### Why it exists
-This project was part of [JavaScript Impressionador - Módulo 8: Desenvolvimento Web](https://www.hashtagtreinamentos.com/curso-javascript), designed to help beginners explore HTML and CSS through a guided exercise. I wanted a playground to practice web fundamentals, and a pizza landing page was the perfect scenario to experiment.  
-
----
-
 ### How it works
 - Written in HTML and CSS  
 - Fully static, no backend  
@@ -43,7 +38,7 @@ This project was part of [JavaScript Impressionador - Módulo 8: Desenvolvimento
 ---
 
 ### About this space
-This project lives in my [`devventures`](../) sandbox — a place to collect my early web experiments. ***hello-pizza*** is the first one of them: small, approachable, and full of learning.  
+This project lives in my [`devventures`](../) sandbox — a place to collect my early web experiments. ***hello-pizza*** is the first one of them.  
 
 ---
 
