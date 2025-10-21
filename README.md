@@ -2,19 +2,13 @@
 
 **A journey through learning, bugs, and accidental deploys.**
 
-## From R to React: how I stumbled into the world of code
+## From R to React: how I found myself coding for the web
 
-It all started in July 2025, when I got a call from an unknown, out-of-state number.
+It all started in July 2025, when I got a call from an unknown, out-of-state number. Turns out it was a slightly panicked family friend who needed a developer for a volunteer project I was already involved with.
 
-Turns out it was a slightly panicked family friend who needed a developer for a volunteer project I was already involved with.
+I'm a statistician; I’ve been coding in R since 2009, and I work far away from anything web-related. I said I probably couldn’t help. He replied, “That’s all we need!” — and scheduled an interview with the dev team.
 
-I'm a statistician; I’ve been coding in R since 2009, and I work far away from anything web-related. I said I probably couldn’t help.
-
-He replied, “That’s all we need!” — and scheduled an interview with the dev team.
-
-I went in thinking they’d turn me down. But they didn’t.
-
-Getting out of my comfort zone, I downloaded VS Code on my brand-new computer, which didn’t even have RStudio installed yet.
+I went in thinking they’d turn me down, but they didn’t. Getting out of my comfort zone, I downloaded VS Code on my brand-new computer, which didn’t even have RStudio installed yet.
 
 And so the devventures began:
 
@@ -25,13 +19,9 @@ And so the devventures began:
 
 But I studied. A lot.
 
-Eleven weeks later, I delivered my first real feature: sorting a table — with interactivity, controlled state, and React styling.
-
-All before the deadline, with clean commits (well… mostly — I was still committing directly to main out of pure naivety).
+Eleven weeks later, I delivered my first real feature: sorting a table — with interactivity, controlled state, and React styling. All before the deadline, with clean commits (well… mostly — I was still committing directly to main out of pure naivety).
 
 I don’t know if I’m a dev yet. But I do know that, with the right people on my side, my devventures are turning out to be epic.
-
-And if you think you don’t know enough to start… maybe you already have everything you need.
 
 ---
 
