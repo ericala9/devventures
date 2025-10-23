@@ -14,7 +14,6 @@ This calculator helps users understand their Body Mass Index (BMI), a basic meas
 ## 🗂️ Table of Contents
 [Welcome](#welcome) | [Along the way](#along-the-way) | [Preview](#preview) | [What’s inside](#-whats-inside) | [How it works](#how-it-works) | [About this space](#about-this-space) | [Contact](#-contact) | [Acknowledgements](#️-acknowledgements)
 
-
 ---
 
 ### Along the way  
@@ -29,7 +28,7 @@ This project also sparked an idea for the future: maybe I’ll create a pocket-l
 
 ### Preview  
 <p align="center">
-  <img src="the-bmi-buddy/images/image.png" alt="Screenshot of the BMI calculator" width="400">
+  <img src="./images/image.png" alt="Screenshot of the BMI calculator" width="400">
 </p>
 
 <p align="center"><em>A simple layout with soft colors — and no judgmental messages.</em></p>
